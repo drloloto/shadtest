@@ -34,7 +34,7 @@
    </Dialog.Description>
   </Dialog.Header>
   <div class="grid gap-4 py-4">
-    <Button onclick={() => open = true} class="text-right">Name</Button>
+    <Button onclick={() => open = true} class="text-right">Open Drawer</Button>
   </div>
   <Dialog.Footer>
   </Dialog.Footer>
